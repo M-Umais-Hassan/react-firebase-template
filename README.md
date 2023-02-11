@@ -1,4 +1,4 @@
-# 724.one Reactjs Template With Firebase
+# Muhammad Umais Hassan Reactjs Template With Firebase
 
 ## Resources
 
